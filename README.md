@@ -43,3 +43,9 @@ If a request failes, False is returned.
 Sample usages are located in examples folder:
   - Authentication in `authExample.py`
   - Offer in `offerExample.py`
+
+### Automated Search
+Example for automated search
+- Add API key
+- Add Infos about yourself
+- Add Your City
